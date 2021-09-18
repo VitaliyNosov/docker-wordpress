@@ -3,7 +3,7 @@
 
 <p><img src="https://i.ibb.co/d4vyrRm/docker-bg.png"></p>
 
-```Go
+```yaml
 
 version: "3"
 services:
