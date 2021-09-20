@@ -5,8 +5,7 @@
 
 comant to  start :
 
-```git
-
+```git 
 docker-compose up -d
 ```
 
