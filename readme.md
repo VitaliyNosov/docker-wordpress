@@ -3,6 +3,13 @@
 
 <p><img src="https://i.ibb.co/d4vyrRm/docker-bg.png"></p>
 
+comant to  start :
+
+```git
+
+docker-compose up -d
+```
+
 ```yaml
 
 version: "3"
