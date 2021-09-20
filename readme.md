@@ -3,7 +3,7 @@
 
 <p><img src="https://i.ibb.co/d4vyrRm/docker-bg.png"></p>
 
-comant to  start :
+command to  start :
 
 ```git 
 docker-compose up -d
