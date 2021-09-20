@@ -15,6 +15,7 @@ docker-compose up -d
 
 version: "3"
 services:
+
   #MySQL Database image
   my_database:
     image: mysql
@@ -43,6 +44,7 @@ services:
     volumes:
       ["./:/var/www/html"]
 
+  #PhpMyAdmin image
   phpmyadmin:
     depends_on:
       - my_database
