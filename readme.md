@@ -1,9 +1,11 @@
-<h1>Docker + WordPress</h1>
-<h2>Docker: https://www.docker.com/</h2>
+# Docker + WordPress
+##### Docker: https://www.docker.com/
 
-<p><img src="https://i.ibb.co/d4vyrRm/docker-bg.png"></p>
+<img src="https://i.ibb.co/d4vyrRm/docker-bg.png">
 
-command to  start :
+__Docker__ allows you to quickly build a set of containers and deploy __WordPress__ development. Then, just as quickly, transfer it all to any system. The "docker-compouse" file is provided, which is a set of instructions for __Docker__ that will download and install all dependencies. You only need to install __Docker__ on your computer.
+
+__command to  start :__
 
 ```git 
 docker-compose up -d
